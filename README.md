@@ -1,0 +1,2 @@
+# LINEAR-REGRESSION_BOSTON_HOUSE_PRICE-PREDICTION
+Simple Linear regression model.
